@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Me@Imorate.ir**
 
-- 📄 Know about my experiences [https://imorate.ir/files/resume.pdf](https://imorate.ir/files/resume.pdf)
+- 📄 Know about my experiences [http://imorate.ir/files/resume/resume.pdf](http://imorate.ir/files/resume/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
